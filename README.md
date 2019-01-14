@@ -3,6 +3,8 @@
 - [HNS Issues](#hns)
 - [MTU](#mtu)
 - [Blob File](#blob)
+- [Azure - Setup](#azure01)
+- [Azure - Locations](#azure01)
 
 ## OS
 
@@ -57,3 +59,16 @@ Source: https://github.com/docker/escalation/issues/848#issuecomment-442177830
 ## Blob File Link:
 To check Windows Manifests and versions you can find them here:
 https://dockermsft.blob.core.windows.net/dockercontainer/DockerMsftIndex.json
+
+
+<a name="azure01"></a>
+## Azure - Setup
+Please note the following setps to install AZURE on GitHub
+https://github.com/docker/docker.github.io/blob/master/ee/ucp/admin/install/install-on-azure.md
+
+
+<a name="azure02"></a>
+## Azure - Locations
+Azure Locations must be rewritten:
+`France, Central = francecentral`
+https://forums.docker.com/t/docker-ee-with-ucp-in-a-linux-vm-in-azure-etc-kubernetes-azure-json-file-missing/64935/3
