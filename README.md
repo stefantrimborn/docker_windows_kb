@@ -70,5 +70,7 @@ https://github.com/docker/docker.github.io/blob/master/ee/ucp/admin/install/inst
 <a name="azure02"></a>
 ## Azure - Locations
 Azure Locations must be rewritten:
+
 `France, Central = francecentral`
+
 https://forums.docker.com/t/docker-ee-with-ucp-in-a-linux-vm-in-azure-etc-kubernetes-azure-json-file-missing/64935/3
