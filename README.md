@@ -9,7 +9,7 @@
 ## OS
 
 Windows Server 2016 LTS, 1709, 1803, 1809 work well.
-Windows Server 2019 not suppoted yet
+Windows Server 2019 suppoted since February 2019.
 
 <a name="hns"></a>
 ## HNS Issues :
